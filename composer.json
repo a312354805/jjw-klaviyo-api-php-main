@@ -23,7 +23,7 @@
         "php": "^7.4 || ^8.0",
         "ext-curl": "*",
         "ext-json": "*",
-        "ext-mbstring": "*",
+        "ext-mbstring": "*"
     },
     "autoload": {
         "psr-4": { "KlaviyoAPI\\" : "lib/" }
