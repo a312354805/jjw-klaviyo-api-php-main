@@ -1,6 +1,6 @@
 {
     "name": "magicyclebikeklaviyo/api",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "PHP SDK for Klaviyo's API.",
     "keywords": [
         "openapitools",
